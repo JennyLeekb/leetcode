@@ -47,6 +47,7 @@ public class Solution {
 //		return list;
 //	}
 	
+	
 	public List<Integer> selfDividingNumbers(int left, int right) {
 		List<Integer> list = new ArrayList<Integer>();
 		
